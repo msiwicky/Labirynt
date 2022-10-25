@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\macie\Desktop\studia\3_semestr\informatyka\labirynt\labirynt\main.c(181,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  labirynt.vcxproj -> C:\Users\macie\Desktop\studia\3_semestr\informatyka\labirynt\Debug\labirynt.exe

@@ -1,0 +1,8 @@
+Program ma generować kwadratowy labirynt o długości boku podanego przez użytkownika. Po wygenerowaniu labiryntu użytkownik może poruszać się po labiryncie strzałkami na klawiaturze. Po wciśnięciu klawisza P program powinien pomóc w dotarciu do celu zaznaczonego literą K w labiryncie.
+1. Struktura komórki labiryntu 						
+2. Dynamiczna tablica dwuwymiarowa. 					
+3. Generator labiryntu (DFS)						
+4. Oznaczenie celu w labiryncie.					
+5. Poruszanie się w labiryncie za pomocą klawiatury.			
+6. Możliwość wyświetlenia pomocnej ścieżki w labiryncie.		
+7. Zapis rozwiązanego labiryntu do pliku .txt.				
